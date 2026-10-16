@@ -14,7 +14,6 @@ public:
 
 int main()
 {
-
     A a(10);
     cout << a.val;
     return 0;
